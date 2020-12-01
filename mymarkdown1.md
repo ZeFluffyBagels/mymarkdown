@@ -13,7 +13,7 @@ ___
 Folgende Browserspiele beinhalten Pinguine als Entities:
 
  Spiele| Basis   
- ----------- |:---------:
+ ---------------- |:-------------:
 Zombie vs Penguins|	Flash Spiele
 Wild Push	Unity| WebGL Spiele
 Penguin Avoids|	HTML5
