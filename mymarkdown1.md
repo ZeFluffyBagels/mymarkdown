@@ -1,5 +1,4 @@
 <article class=*markdown-body*>
-<span style="font-family:graffiti">
 
 # Pinguine
 ___
