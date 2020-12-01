@@ -11,9 +11,8 @@ Die Pinguine (Spheniscidae) sind eine Gruppe flugunfähiger Seevögel der Südha
 ## Spiele
 ___
 Folgende Browserspiele beinhalten Pinguine als Entities:
-
- Spiele| Basis   
- ---------------- |:-------------:
+Spiele           | Basis   
+---------------- |:-------------:|
 Zombie vs Penguins|	Flash Spiele
 Wild Push	Unity| WebGL Spiele
 Penguin Avoids|	HTML5
