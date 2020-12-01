@@ -1,4 +1,5 @@
 <article class=*markdown-body*>
+<span style="font-family:graffiti">
 
 # Pinguine
 ___
@@ -62,6 +63,13 @@ Hier findet ihr den Code für das Hallo Pinguin Programm in Python:
 import pyfiglet
 
 ascii_banner = pyfiglet.figlet_format("Hallo Pingu!")
+print(ascii_banner)
+```
+Now with an English Translation!
+```Python
+import pyfiglet
+
+ascii_banner = pyfiglet.figlet_format("Hello Pingu!")
 print(ascii_banner)
 ```
 #### Offene-Todos
